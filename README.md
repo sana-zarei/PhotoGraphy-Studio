@@ -39,5 +39,6 @@ jQuery - For the JavaScript functionality used in the template.
 License
 This template is licensed under the MIT License. See the LICENSE file for details.
 
+Thank you for choosing Jopho – Creative Photography Template! We hope you enjoy using it to showcase your work and create an unforgettable online portfolio. If you have any feedback or suggestions, we'd love to hear from you. Happy photographing! 📷✨
 
 Pictures
