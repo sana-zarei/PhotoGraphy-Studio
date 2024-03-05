@@ -38,3 +38,6 @@ Bootstrap - For the responsive layout and grid system.
 jQuery - For the JavaScript functionality used in the template.
 License
 This template is licensed under the MIT License. See the LICENSE file for details.
+
+
+Pictures
